@@ -22,9 +22,21 @@ If the motor doesn't start after the fixes, you might have cut the conductive pa
 
 **Motor**: clip in the holder clip of the motor to the circuit board (maybe the printing supports need to be removed first), clip the motor. Press the green disc holder onto the axis.
 
-**For each of the two LED-Extension-Boards**: Place the spacer with the three fingers, put on the underlay plate, connect the extension board, fix it with a clipper. The clipper might be tight, you can sand the edges a bit for an easier installation.
+**For each of the two LED-Extension-Boards**: 
 
-(picture to come here)
+![mountig](mounting.jpg)
+
+Place the spacer with the three fingers and put on the underlay plate.
+
+![spacers](spacer1.jpg)
+
+Connect the extension board. 
+
+![with extension board](spacer2.jpg)
+
+Fix it with a clipper. The clipper might be tight, you can sand the edges a bit for an easier installation.
+
+![clip and fix](clip.jpg)
 
 ## manual
 
