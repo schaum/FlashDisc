@@ -4,6 +4,7 @@ You can view the interactive BOM of the Flashdisc by an interpreter like this:
 
 http://htmlpreview.github.io/?https://github.com/schaum/FlashDisc/blob/main/FlashDisc-BOM.html
 
+Watch out for the directions of the LEDs, the chip (mark at the longer line) and the joy-stick (mark at the bottom right).
 
 ## PCB Version 3 Fixes
 
