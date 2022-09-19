@@ -44,3 +44,7 @@ Fix it with a clipper. The clipper might be tight, you can sand the edges a bit 
 - plug the circuit to a 5V power supply
 - push the center button of the joystik to start
 - tune the motor speed: joystik up or to the right once or twice to increase the speed, down or left to lower the speed
+
+## Designs of Discs
+
+Check out [the sample FlashDiscs](FlashDiscs/) for an inspiration on how to create discs.
